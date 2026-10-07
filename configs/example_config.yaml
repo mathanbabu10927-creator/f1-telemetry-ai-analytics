@@ -1,0 +1,11 @@
+project:
+  name: f1-telemetry-ai-analytics
+  environment: development
+
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  external_dir: data/external
+
+logging:
+  level: INFO
